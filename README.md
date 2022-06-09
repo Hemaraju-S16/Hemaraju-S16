@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hemaraju-S16
 - 👀 I’m interested in python programming and game development and 3d modelling
-- 🌱 I’m currently learning unereal engine 5 and c++ api
+- 🌱 I’m currently learning unreal engine 5 and c++ api
 - 💞️ I’m looking to collaborate on blender add-ons development
 - 📫 How to reach me 
 
